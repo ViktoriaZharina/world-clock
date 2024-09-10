@@ -6,7 +6,7 @@ body {
     rgb(184, 252, 233) 67.2%,
     rgb(118, 162, 229) 92.3%
   );
-
+  height: auto;
   font-family: sans-serif;
 }
 
