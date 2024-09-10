@@ -27,6 +27,7 @@ function updateTime() {
 }
 
 function updateCity(event) {
+    z
   let cityTimeZone = event.target.value;
   let cityName = cityTimeZone.replace("_", " ").split("/")[1];
   let cityTime = moment().tz(cityTimeZone);
