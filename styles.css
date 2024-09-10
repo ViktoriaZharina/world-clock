@@ -1,5 +1,12 @@
 body {
-  background-color: #f9f7fe;
+  background: linear-gradient(
+    179.7deg,
+    rgb(248, 126, 126) -0.5%,
+    rgb(251, 206, 143) 35.3%,
+    rgb(184, 252, 233) 67.2%,
+    rgb(118, 162, 229) 92.3%
+  );
+
   font-family: sans-serif;
 }
 
